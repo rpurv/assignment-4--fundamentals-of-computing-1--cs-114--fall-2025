@@ -25,7 +25,7 @@ boolean checkWin(int player) {
   return false;
 }
 
-// Computer move
+// Computer's turn
 void computerMove() {
   if (gameOver) return;
 
